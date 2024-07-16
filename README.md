@@ -1,25 +1,41 @@
 <h1 align="center">I'm Bhargav and I'm a Full Stack Web Developer</h1>
 
 --- 
-<br/>
 
+<br/>
 <div align="left"> <h3> Some Stats </h3> </div>
+
 ---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bhargav-tibadiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=bhargav-tibadiya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
-  <div align="left"> <h3> Some Trophies </h3> </div>
-  <img src="https://github-profile-trophy.vercel.app?username=bhargav-tibadiya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   
-  <div align="left"> <h3> Kind of a Activity Graph </h3> </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargav-tibadiya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<br>
+<br/>
+<br/>
+
+  <div align="left"> <h3> Some Trophies </h3> </div>
+
 ---
 
+  <img src="https://github-profile-trophy.vercel.app?username=bhargav-tibadiya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<br/>
+<br/>
+
+  <div align="left"> <h3> Kind of a Activity Graph </h3> </div>
+
+---
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargav-tibadiya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 <br clear="both">
+<br/>
+
+<div align="left"> <h3> My Skill </h3> </div>
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -69,6 +85,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<br/>
+<br/>
+
+<div align="left"> <h3> My Socials </h3> </div>
+
 ---
 
 <div align="left">
@@ -105,10 +126,16 @@
   
 </div>
 
+<br/>
+<br/>
+
+<div align="left"> <h3> Profile Visiter Counter </h3> </div>
+
 ---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bhargav-Tibadiya/count.svg?"  />
 </div>
 
+---
 ---
