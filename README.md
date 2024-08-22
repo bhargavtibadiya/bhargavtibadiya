@@ -14,6 +14,14 @@
 <br/>
 <br/>
 
+<div align="left"> <h3> My Top Repo </h3> </div>
+
+---
+
+![](https://github-contributor-stats.vercel.app/api?username=bhargav-tibadiya&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+<br/>
+
   <div align="left"> <h3> Some Trophies </h3> </div>
 
 ---
@@ -137,5 +145,9 @@
   <img src="https://profile-counter.glitch.me/Bhargav-Tibadiya/count.svg?"  />
 </div>
 
----
+<br/>
+<br/>
+
+
+
 ---
