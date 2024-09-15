@@ -1,3 +1,8 @@
+![Banner](https://github.com/user-attachments/assets/e8c19804-8d6b-4ccf-91ea-ab490100a9b7)
+
+
+---
+
 <h1 align="center">I'm Bhargav and I'm a Full Stack Web Developer</h1>
 
 --- 
