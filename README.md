@@ -1,6 +1,4 @@
-[![Banner](https://github.com/user-attachments/assets/e8c19804-8d6b-4ccf-91ea-ab490100a9b7)](https://bhargavtibadiya.vercel.app/)
-
-
+![Fueler Twitter header - 22](https://github.com/user-attachments/assets/8c3f0ec8-b8f0-4535-81b9-9ec2021d0cfa)
 
 ---
 
