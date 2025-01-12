@@ -159,5 +159,5 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/bhargav-tibadiya/bhargav-tibadiya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bhargav-tibadiya/Bhargav-Tibadiya/output/snake.svg" alt="Snake animation" />
 
