@@ -148,17 +148,6 @@
 <br/>
 <br/>
 
-<div align="left"> <h3> Profile Visiter Counter </h3> </div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhargavtibadiya/count.svg?"  />
-</div>
-
-<br/>
-<br/>
-
 ---
 
 <img src="https://raw.githubusercontent.com/bhargavtibadiya/bhargavtibadiya/output/snake.svg" alt="Snake animation" />
