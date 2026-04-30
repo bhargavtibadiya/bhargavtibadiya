@@ -1,10 +1,10 @@
 <div align="center">
 
-![Fueler Twitter header - 22](https://github.com/user-attachments/assets/8c3f0ec8-b8f0-4535-81b9-9ec2021d0cfa)
+<img width="1584" height="396" alt="LinkedIn Banner _ Bhargav_50" src="https://github.com/user-attachments/assets/32211e59-ab86-4057-af34-fbd232c049b9" />
 
 ---
 
-<h1>I'm Bhargav and I'm a Full Stack Web Developer</h1>
+<h1>Bhargav Here, Full Stack Developer</h1>
 
 ---
 
