@@ -1,178 +1,191 @@
 <div align="center">
 
-<img width="1584" height="396" alt="LinkedIn Banner _ Bhargav_50" src="https://github.com/user-attachments/assets/32211e59-ab86-4057-af34-fbd232c049b9" />
+<img width="1584" height="396" alt="Bhargav Banner" src="https://github.com/user-attachments/assets/32211e59-ab86-4057-af34-fbd232c049b9" />
 
----
+<br/><br/>
 
-<h1>Bhargav Here, Full Stack Developer</h1>
-
----
-
-<h2> My Skills </h2>
-
-<!-- Frontend & UI -->
-<h4>Frontend & UI</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-</div>
+# B H A R G A V  &nbsp; &nbsp;  T I B A D I Y A
+### Full Stack Developer &nbsp;/&nbsp; Senior Software Engineer
 
 <br/>
 
-<!-- Backend -->
-<h4>Backend</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo" />
-</div>
+> *"I focus on solving business problems, not just writing code."*
 
 <br/>
 
-<!-- DevOps & Cloud -->
-<h4>DevOps & Cloud</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
+I help founders, SaaS companies, and tech teams turn ideas into polished, revenue-generating products with clean architecture, smooth UX, and reliable backend systems.
+
 </div>
 
-<br/>
-
-<!-- Version Control & CI/CD -->
-<h4>Version Control & CI/CD</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo" />
-</div>
-
-<br/>
-
-<!-- Testing & Quality -->
-<h4>Testing & Quality</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-</div>
-
-<br/>
-
-<!-- Tools & Productivity -->
-<h4>Tools & Productivity</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo" />
-</div>
-
-<br/>
 <br/>
 
 ---
 
+<br/>
+
+### ── 01 · WHAT I DELIVER
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Frontend Engineering** | High-performance web apps — React, Next.js & TypeScript |
+| **Backend Systems** | Robust APIs — Node.js, NestJS & Express |
+| **Design Execution** | Pixel-perfect UI/UX with modern component libraries |
+| **Data Architecture** | Optimized databases and scalable systems |
+| **AI Workflows** | Automation tools & internal dashboards |
+| **Commerce** | Payment integrations — Stripe, Razorpay, Paddle |
+| **Systems Integration** | Third-party APIs & message queues |
+| **Ownership** | Architecture → Development → Deployment → Maintenance |
+
+</div>
+
+<br/>
+
+### ── 02 · TRACK RECORD
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><h2>3+</h2>YEARS&nbsp;EXPERIENCE</td>
+<td align="center" width="25%"><h2>3000+</h2>HOURS&nbsp;SHIPPED</td>
+<td align="center" width="25%"><h2>10+</h2>GLOBAL&nbsp;CLIENTS</td>
+<td align="center" width="25%"><h2>8+</h2>INDUSTRIES&nbsp;SERVED</td>
+</tr>
+</table>
+
+*SaaS · Finance · Real Estate · AI Tools · HealthCare · EdTech · CRM · E-Commerce*
+
+</div>
+
+<br/>
+
+### ── 03 · THE STACK
+
+<div align="center">
+
+<h4>FRONTEND & UI</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,materialui,electron,babel,graphql" height="38" />
+
+<br/>
+
+<h4>BACKEND</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma,redis,supabase,firebase" height="38" />
+
+<br/>
+
+<h4>CLOUD & DEVOPS</h4>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify" height="38" />
+
+<br/>
+
+<h4>VERSION CONTROL & QUALITY</h4>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jest,sentry,postman" height="38" />
+
+<br/>
+
+<h4>TOOLS & PRODUCTIVITY</h4>
+<img src="https://skillicons.dev/icons?i=vscode,figma,notion,vim,bash,powershell,regex,md,devto" height="38" />
+
+</div>
+
+<br/>
+
+
+<div align="center">
+<table>
+<tr><th>Category</th><th>Skills</th></tr>
+<tr>
+<td><b>Core</b></td>
+<td>React 19, Next.js 15, TypeScript</td>
+</tr>
+<tr>
+<td><b>Styling</b></td>
+<td>SCSS, Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>UI Libraries</b></td>
+<td>Material UI, ShadCN, Ant Design</td>
+</tr>
+<tr>
+<td><b>State Management</b></td>
+<td>Redux, Zustand</td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td>Jest, Vitest</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js, Express, NestJS</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>PostgreSQL, MongoDB</td>
+</tr>
+<tr>
+<td><b>ORM</b></td>
+<td>Prisma, Drizzle, Mongoose, TypeORM</td>
+</tr>
+<tr>
+<td><b>Caching & Queuing</b></td>
+<td>Redis, BullMQ, RabbitMQ</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>Docker, DigitalOcean, Git, GitHub, CI/CD</td>
+</tr>
+<tr>
+<td><b>AI Tools</b></td>
+<td>Cursor, Windsurf, Antigravity, Claude, ChatGPT, Gemini, Deepseek</td>
+</tr>
+<tr>
+<td><b>Collaboration</b></td>
+<td>Linear, Jira, Trello, Asana, Slack, Notion, Discord</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### ── 04 · WHAT I CAN HELP YOU BUILD
+
+<div align="center">
+
+`SaaS Platforms` &nbsp;·&nbsp; `Admin Panels & Dashboards` &nbsp;·&nbsp; `Automation & Internal Systems`
+`Custom APIs & Microservices` &nbsp;·&nbsp; `E-commerce Systems` &nbsp;·&nbsp; `Legacy Modernization`
+`Bug Fixing & Performance Optimization` &nbsp;·&nbsp; `Long-term Maintenance & Post-launch Support`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/bhargavtibadiya/bhargavtibadiya/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
 
 ---
 
+<br/>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhargavtibadiya/bhargavtibadiya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhargavtibadiya/bhargavtibadiya/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhargavtibadiya/bhargavtibadiya/output/pacman-contribution-graph.svg">
 </picture>
+</div>
+
+<br/>
 
 ---
 
 
-
-</div>
